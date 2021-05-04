@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "names": "Juan",
+        "lastNames": "Perez",
+        "email": "juanperez_gmail.com",
+        "address": "1",
+        "phone": "+56 9 12345678",
+        "password": "123",
+        "createdAt": "20/04/2021",
+        "updatedAt": "25/04/2021"
+    },
+    {
+        "id": "2",
+        "names": "Pedro",
+        "lastNames": "Gonzales",
+        "email": "pedrogonzales_gmail.com",
+        "address": "2",
+        "phone": "+56 9 81234567",
+        "password": "124",
+        "createdAt": "21/04/2021",
+        "updatedAt": "25/04/2021"
+    }
+]
